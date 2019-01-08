@@ -1,4 +1,4 @@
-# TimeSheet
+# Time Sheet
 Billable Time Tracking 
 
 Used for logging billable time and expenses. Replacing existing spreadsheet solution.
@@ -25,7 +25,7 @@ Allow for default rate and minimum hours.
 Recent work descriptions easy to pick from.
 Descriptions can be templates allowing for:
 * Service - {Customer}
-* Stored description is formated result. 
+* Stored description is formatted result. 
 * Recent entries captures the template. 
 
 Shows recent entries. 
