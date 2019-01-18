@@ -15,7 +15,13 @@ Given Started work
   * Starts work with Now with minimum hours. (0.25)
 * End work -
   * Defaults to now and calculates hours
-  
+---
+Given multiple entries
+* Assign invoice number to all unassigned entries starting with selected entry and older
+---
+Generate invoices
+* Summary by day or description
+
 ## Features
 
 Allow for default rate and minimum hours. 
